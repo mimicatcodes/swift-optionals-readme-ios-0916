@@ -8,9 +8,9 @@ if petName != nil {
     print("My friend doesn't have a pet 😞")
 }
 
-if let petName = petName {
-    print("My friend's pet is \(petName)")
-}
+//if let petName = petName {
+//    print("My friend's pet is \(petName)")
+//}
 
 if let friendsPet = petName {
     print("My friend's pet is \(friendsPet)")
